@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServer", "WCFServer\WCFServer.csproj", "{257416C8-9CE4-45C6-999F-227F7D63FFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "WPFClient\WPFClient.csproj", "{1E3F6B58-9F1C-428C-BEA0-CB431D8FFBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257416C8-9CE4-45C6-999F-227F7D63FFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257416C8-9CE4-45C6-999F-227F7D63FFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257416C8-9CE4-45C6-999F-227F7D63FFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257416C8-9CE4-45C6-999F-227F7D63FFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3F6B58-9F1C-428C-BEA0-CB431D8FFBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3F6B58-9F1C-428C-BEA0-CB431D8FFBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3F6B58-9F1C-428C-BEA0-CB431D8FFBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3F6B58-9F1C-428C-BEA0-CB431D8FFBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
